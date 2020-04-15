@@ -1,6 +1,6 @@
 # Java-Homework-and-Course-Designment
 
-## Project1 : Student-Course Management System Demo
+## Project1 : [Student-Course Management System Demo]
 
 ### Features
 - save and load a Student-Course 2-dimensional table of scores
@@ -25,3 +25,5 @@ Other operations are ordinary.
 ### Potential update
 - replace current plain find_stu/find_crs algorithm with an AC Automachine, which reduce the Time complexity from n\*m (number of students and courses multiplied with their lengths) to m (the length only).
 - replace current bubble sorting to quick sort and achieve a complexity of n\*logn
+
+[Student-Course Management System Demo]:https://github.com/sky66666/Java-Homework-and-Course-Designment/blob/master/Project1.java
