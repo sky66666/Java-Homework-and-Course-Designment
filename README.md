@@ -1,4 +1,4 @@
-# Java-Homework-and-Course-Designment
+# NUIST-Homework-and-Course-Designment-for-JAVA
 
 ## Project1 : [Student-Course Management System Demo]
 
