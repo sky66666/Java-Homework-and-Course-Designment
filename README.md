@@ -27,4 +27,26 @@ Other operations are ordinary.
 - replace current bubble sorting to quick sort and achieve a complexity of n\*logn
 - calculate the maximum/average value in advance
 
-[Student-Course Management System Demo]:https://github.com/sky66666/Java-Homework-and-Course-Designment/blob/master/Project1.java
+## Project2 : [Student-Course Management System with Interface Demo]
+
+### Features
+
+### Functions
+
+### Design and idea
+
+### Potential update
+
+## Project3 : [Menu Ordering System with Exception Demo]
+
+### Features
+
+### Functions
+
+### Design and idea
+
+### Potential update
+
+[Student-Course Management System Demo]:https://github.com/sky66666/Java-Homework-and-Course-Designment/blob/master/Project1
+[Student-Course Management System with Interface Demo]:https://github.com/sky66666/Java-Homework-and-Course-Designment/blob/master/Project2
+[Menu Ordering System with Exception Demo]:https://github.com/sky66666/Java-Homework-and-Course-Designment/blob/master/Project3
